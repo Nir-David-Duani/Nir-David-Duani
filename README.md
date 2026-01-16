@@ -23,7 +23,7 @@ estimation using solvePnP, and multi-plane visualization.
 ![Multi-Plane Portal Demo](media/ar_multiplane_portals.gif)
 
 Repository:
-[Link to repository]
+[Link to repository](https://github.com/Nir-David-Duani/augmented-reality-planar)
 
 ---
 
@@ -44,7 +44,7 @@ across varying environments.
 ![Lane Change Demo](media/lane_change.gif)
 
 Repository:
-[Link to repository]
+[Link to repository](https://github.com/Nir-David-Duani/lane-detection)
 
 ---
 
