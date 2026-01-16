@@ -38,10 +38,10 @@ The project emphasizes geometric reasoning, temporal consistency, and robustness
 across varying environments.
 
 **Crosswalk detection and lane suppression:**  
-<img src="media/lane_crosswalk.gif" width="650">
+<img src="media/lane_crosswalk.gif" width="550">
 
 **Lane tracking and lane change detection:**  
-<img src="media/lane_change.gif" width="650">
+<img src="media/lane_change.gif" width="550">
 
 Repository:
 [Link to repository](https://github.com/Nir-David-Duani/lane-detection)
