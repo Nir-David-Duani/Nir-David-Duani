@@ -55,7 +55,7 @@ An efficient implementation of the Unrooted Perfect Phylogeny algorithm with
 O(n·m) time complexity, focusing on algorithmic correctness and performance.
 
 Repository:
-[Link to repository]
+[Link to repository](https://github.com/Nir-David-Duani/pp-linear)
 
 ---
 
