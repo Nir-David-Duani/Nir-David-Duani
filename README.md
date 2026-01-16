@@ -1,29 +1,11 @@
 # Nir David-Duani
 
-Computer Science student at Reichman University (Honors Program), focused on
+Computer Science student, focused on
 algorithms, computer vision, and applied AI.
 
 ---
 
 ## Featured Projects
-
-### Lane Detection from Driving Videos
-Python · OpenCV · Computer Vision
-
-A computer vision system for detecting lane boundaries and road structure in
-driving videos across multiple scenarios, including curved roads, pedestrian
-crosswalks, and night-time conditions.
-
-The project emphasizes geometric reasoning, temporal consistency, and robustness
-across varying environments.
-
-Demo:
-![Lane Detection Demo](media/lane_detection.gif)
-
-Repository:
-[Link to repository]
-
----
 
 ### Planar Augmented Reality
 Python · OpenCV · Camera Geometry · PnP
@@ -31,11 +13,35 @@ Python · OpenCV · Camera Geometry · PnP
 An augmented reality pipeline that tracks planar targets in video and renders
 virtual content with correct perspective, camera pose, and occlusion handling.
 
-The project includes camera calibration, pose estimation, and multi-plane
-visualization.
+The project includes camera calibration, homography-based tracking, pose
+estimation using solvePnP, and multi-plane visualization.
 
-Demo:
-![Planar AR Demo](media/planar_ar.gif)
+**Occlusion handling (foreground masking):**
+![AR Occlusion Demo](media/ar_occlusion_hand.gif)
+
+**Multi-plane tracking with portals (camera motion):**
+![Multi-Plane Portal Demo](media/ar_multiplane_portals.gif)
+
+Repository:
+[Link to repository]
+
+---
+
+### Lane Detection from Driving Videos
+Python · OpenCV · Computer Vision
+
+A computer vision system for detecting lane boundaries and road structure in
+driving videos across multiple scenarios, including curved roads, pedestrian
+crosswalks, and lane changes.
+
+The project emphasizes geometric reasoning, temporal consistency, and robustness
+across varying environments.
+
+**Crosswalk detection and lane suppression:**
+![Crosswalk Detection Demo](media/lane_crosswalk.gif)
+
+**Lane tracking and lane change detection:**
+![Lane Change Demo](media/lane_change.gif)
 
 Repository:
 [Link to repository]
@@ -46,11 +52,7 @@ Repository:
 Java · Algorithms · Graphs
 
 An efficient implementation of the Unrooted Perfect Phylogeny algorithm with
-O(n·m) time complexity, including deterministic radix sorting and tree
-construction.
-
-The project focuses on algorithmic correctness, performance, and clean
-implementation.
+O(n·m) time complexity, focusing on algorithmic correctness and performance.
 
 Repository:
 [Link to repository]
