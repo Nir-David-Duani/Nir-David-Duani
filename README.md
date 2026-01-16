@@ -16,11 +16,11 @@ virtual content with correct perspective, camera pose, and occlusion handling.
 The project includes camera calibration, homography-based tracking, pose
 estimation using solvePnP, and multi-plane visualization.
 
-**Occlusion handling (foreground masking):**
-![AR Occlusion Demo](media/ar_occlusion_hand.gif)
+**Occlusion handling (foreground masking):**  
+<img src="media/ar_occlusion_hand.gif" width="650">
 
-**Multi-plane tracking with portals (camera motion):**
-![Multi-Plane Portal Demo](media/ar_multiplane_portals.gif)
+**Multi-plane tracking with portals (camera motion):**  
+<img src="media/ar_multiplane_portals.gif" width="650">
 
 Repository:
 [Link to repository](https://github.com/Nir-David-Duani/augmented-reality-planar)
@@ -37,11 +37,11 @@ crosswalks, and lane changes.
 The project emphasizes geometric reasoning, temporal consistency, and robustness
 across varying environments.
 
-**Crosswalk detection and lane suppression:**
-![Crosswalk Detection Demo](media/lane_crosswalk.gif)
+**Crosswalk detection and lane suppression:**  
+<img src="media/lane_crosswalk.gif" width="550">
 
-**Lane tracking and lane change detection:**
-![Lane Change Demo](media/lane_change.gif)
+**Lane tracking and lane change detection:**  
+<img src="media/lane_change.gif" width="550">
 
 Repository:
 [Link to repository](https://github.com/Nir-David-Duani/lane-detection)
