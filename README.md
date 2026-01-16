@@ -17,10 +17,10 @@ The project includes camera calibration, homography-based tracking, pose
 estimation using solvePnP, and multi-plane visualization.
 
 **Occlusion handling (foreground masking):**  
-<img src="media/ar_occlusion_hand.gif" width="300">
+<img src="media/ar_occlusion_hand.gif" width="280">
 
 **Multi-plane tracking with portals (camera motion):**  
-<img src="media/ar_multiplane_portals.gif" width="300">
+<img src="media/ar_multiplane_portals.gif" width="280">
 
 Repository:
 [Link to repository](https://github.com/Nir-David-Duani/augmented-reality-planar)
