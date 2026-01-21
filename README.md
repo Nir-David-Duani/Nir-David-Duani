@@ -25,6 +25,7 @@ estimation using solvePnP, and multi-plane visualization.
 **Cube rendering (pose estimation):**
 <img src="media/part2_cube.gif" width="200">
 
+
 Repository:
 [Link to repository](https://github.com/Nir-David-Duani/augmented-reality-planar)
 
