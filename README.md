@@ -22,6 +22,9 @@ estimation using solvePnP, and multi-plane visualization.
 **Multi-plane tracking with portals (camera motion):**  
 <img src="media/part5_multi_plane_video_portal360vid5.gif" width="280">
 
+**Cube-rendering:**
+<img src="media/part2_cube.gif" width="280">
+
 Repository:
 [Link to repository](https://github.com/Nir-David-Duani/augmented-reality-planar)
 
