@@ -17,13 +17,13 @@ The project includes camera calibration, homography-based tracking, pose
 estimation using solvePnP, and multi-plane visualization.
 
 **Occlusion handling (foreground masking):**  
-<img src="media/ar_occlusion_hand.gif" width="280">
+<img src="media/ar_occlusion_hand.gif" width="220">
 
 **Multi-plane tracking with portals (camera motion):**  
-<img src="media/part5_multi_plane_video_portal360vid5.gif" width="280">
+<img src="media/part5_multi_plane_video_portal360vid5.gif" width="220">
 
 **Cube-rendering:**
-<img src="media/part2_cube.gif" width="280">
+<img src="media/part2_cube.gif" width="220">
 
 Repository:
 [Link to repository](https://github.com/Nir-David-Duani/augmented-reality-planar)
@@ -41,10 +41,13 @@ The project emphasizes geometric reasoning, temporal consistency, and robustness
 across varying environments.
 
 **Crosswalk detection and lane suppression:**  
-<img src="media/lane_crosswalk.gif" width="550">
+<img src="media/lane_crosswalk.gif" width="500">
 
 **Lane tracking and lane change detection:**  
-<img src="media/lane_change.gif" width="550">
+<img src="media/lane_change.gif" width="500">
+
+**night Lane tracking and lane change detection:**  
+<img src="media/night_lane.gif" width="500">
 
 Repository:
 [Link to repository](https://github.com/Nir-David-Duani/lane-detection)
