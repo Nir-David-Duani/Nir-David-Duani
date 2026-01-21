@@ -45,6 +45,9 @@ across varying environments.
 **Crosswalk detection and lane suppression:**  
 <img src="media/lane_crosswalk.gif" width="500">
 
+**curve lane detection:**  
+<img src="media/lane_change.gif" width="500">
+
 **Lane tracking and lane change detection:**  
 <img src="media/lane_change.gif" width="500">
 
