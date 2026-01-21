@@ -20,10 +20,8 @@ estimation using solvePnP, and multi-plane visualization.
 <img src="media/ar_occlusion_hand.gif" width="250">
 
 **Multi-plane tracking with portals (camera motion):**  
-<p>
   <img src="media/part5_multi_plane_video_portal360vid5.gif" width="250" style="display: inline-block; margin-right:10px;">
   <img src="media/part5_multi_plane_video_portal3602.gif" width="250" style="display:inline-block;">
-</p>
 
 **Cube rendering (pose estimation):**
 
