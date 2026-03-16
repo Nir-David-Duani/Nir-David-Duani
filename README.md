@@ -19,27 +19,32 @@ Starting from a pretrained **ResNet-18 classifier**, the project evolves through
 
 The project focuses on **architectural reasoning, loss design, and IoU-based evaluation**.
 
+---
+
 ### Single-Object Detection (Safety Vest)
 
 <p>
-  <img src="media/single1.gif" width="260" style="display:inline-block; margin-right:10px;">
-  <img src="media/single2.gif" width="260" style="display:inline-block;">
+  <img src="media/single_object.gif" width="260" style="display:inline-block; margin-right:10px;">
+  <img src="media/single_object1.gif" width="260" style="display:inline-block;">
 </p>
 
 A ResNet-18 backbone with a lightweight regression head predicts a **single normalized bounding box per frame**.
 
+---
+
 ### Multi-Object Detection (Helmet · Person · Vest)
 
 <p>
-  <img src="media/multi1.gif" width="260" style="display:inline-block; margin-right:10px;">
-  <img src="media/multi2.gif" width="260" style="display:inline-block;">
+  <img src="media/multi_object.gif" width="260" style="display:inline-block; margin-right:10px;">
+  <img src="media/multi_object1.gif" width="260" style="display:inline-block;">
 </p>
 
 The detector predicts **up to three objects per frame** using fixed prediction slots and an **IoU-aware loss** to improve localization quality.
 
-Repository:  
-[Deep Learning Object Detection](YOUR_REPO_LINK)
+---
 
+Repository:  
+[Link to repository](YOUR_REPO_LINK)
 ---
 
 ## Planar Augmented Reality
