@@ -22,8 +22,8 @@ The project focuses on **architectural reasoning, detection loss design, and IoU
 ### Single-Object Detection (Safety Vest)
 
 <p align="center">
-  <img src="media/single_object.gif" width="300">
-  <img src="media/single_object1.gif" width="300">
+  <img src="media/single_object.gif" width="340">
+  <img src="media/single_object1.gif" width="340">
 </p>
 
 A ResNet-18 backbone with a lightweight regression head predicts a **single normalized bounding box per frame**.
@@ -31,8 +31,8 @@ A ResNet-18 backbone with a lightweight regression head predicts a **single norm
 ### Multi-Object Detection (Helmet · Person · Vest)
 
 <p align="center">
-  <img src="media/multi_object.gif" width="300">
-  <img src="media/multi_object1.gif" width="300">
+  <img src="media/multi_object.gif" width="340">
+  <img src="media/multi_object1.gif" width="340">
 </p>
 
 The detector predicts **up to three objects per frame** using fixed prediction slots and an **IoU-aware loss** for improved localization.
