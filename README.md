@@ -19,6 +19,7 @@ shore direction.
 <p align="center">
 <img src="media/location_examples.png" width="750">
 </p>
+
 ### Registration and Semantic Pipeline
 <p align="center">
   <img src="media/registration_sift_alignment.png " width="390">
