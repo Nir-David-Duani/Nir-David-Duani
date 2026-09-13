@@ -22,7 +22,7 @@ shore direction.
 ### Registration and Semantic Pipeline
 <p align="center">
   <img src="media/registration_sift_alignment.png " width="390">
-  <img src="media/shoreline_pipeline.png" width="390">
+  <img src="media/porch_pipeline.png" width="390">
 </p>
 Key components:
 - Reference-frame registration with SIFT and RANSAC
