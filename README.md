@@ -6,6 +6,33 @@ Computer Science student focused on **algorithms, computer vision, and applied A
 
 # Featured Projects
 
+## Coastal Shoreline Detection
+**Python · PyTorch · OpenCV · CLIPSeg · SIFT · Computer Vision**
+A semi-automatic system for extracting shorelines from fixed coastal cameras.
+Each incoming frame is aligned with a location reference using **SIFT feature
+matching, RANSAC, and homography estimation**. A vision-language segmentation
+model then produces water and land probability maps, from which the system
+extracts a connected shoreline inside a user-defined search region.
+The project supports curved and irregular shorelines without assuming a fixed
+shore direction.
+### Shoreline Results
+<p align="center">
+<img src="media/shoreline_examples.png" width="750">
+</p>
+### Registration and Semantic Pipeline
+<p align="center">
+  <img src="media/shoreline_registration.png" width="390">
+  <img src="media/shoreline_pipeline.png" width="390">
+</p>
+Key components:
+- Reference-frame registration with SIFT and RANSAC
+- Water/land segmentation using CLIPSeg text prompts
+- Interactive search-region annotation
+- Two-dimensional contour extraction and candidate scoring
+- CLI workflows for single-image and batch processing
+- Interactive notebook for parameter tuning and pipeline inspection
+[View repository →](https://github.com/Nir-David-Duani/coastal-shoreline-detection)
+
 ## Deep Learning: From Classification to Detection
 **Python · PyTorch · Computer Vision · Deep Learning**
 
