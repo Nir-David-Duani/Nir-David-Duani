@@ -17,11 +17,11 @@ The project supports curved and irregular shorelines without assuming a fixed
 shore direction.
 ### Shoreline Results
 <p align="center">
-<img src="media/shoreline_examples.png" width="750">
+<img src="media/location_examples.png" width="750">
 </p>
 ### Registration and Semantic Pipeline
 <p align="center">
-  <img src="media/shoreline_registration.png" width="390">
+  <img src="media/registration_sift_alignment.png " width="390">
   <img src="media/shoreline_pipeline.png" width="390">
 </p>
 Key components:
